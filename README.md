@@ -1,0 +1,1 @@
+This is the Customer Repayment Behaviour Analysis this bith files contain a ppt and a ipynb file this file has been created to analyse machine learnign models such as randomforest classifier, xgboost and logistic regression and this file contains appt as format for a report this report wil help you to understand graphs and the content.
